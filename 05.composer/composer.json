@@ -1,0 +1,13 @@
+{
+    "name": "vitorh/composer_aula",
+    "description": "Estudando composer",
+    "authors": [
+        {
+            "name": "Vitor H.",
+            "email": "vitor.araujo63@etec.sp.gov.br"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
